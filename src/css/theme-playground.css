@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+input, button, select, textarea, input[type="checkbox"] {
+    background: red !important;
+    color: yellow !important;
+    border: 1px solid orange !important;
+    text-transform: uppercase !important;
+    padding: 17px !important;
+    border-radius: 100px !important;
+    appearance: inherit !important;
+}
+
+a {
+    text-transform: uppercase !important;
+    color: red !important;
+    text-decoration: overline !important;
+}
+
+img, iframe {
+    border: 3px solid red !important;
+    border-radius: 100px !important;
+}
